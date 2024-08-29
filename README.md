@@ -9,4 +9,5 @@ $ python3 main.py
 en entornos linux también:
 
 $ chmod +x main.py
+
 $ ./main.py
